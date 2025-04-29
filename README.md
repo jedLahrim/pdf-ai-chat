@@ -1,19 +1,18 @@
-**Install the required dependencies**
+1. **Install the required dependencies**
 
-Run the following command to install all the required dependencies:
+   Run the following command to install all the required dependencies:
 
    ```bash
    npm install
    ```
 
-This will install all the dependencies listed in the `package.json` file, including Next.js, React, React DOM, Axios,
-Stripe, Tailwind CSS, and other specific dependencies such as "@aws-sdk/client-s3" and "@clerk/nextjs".
+   This will install all the dependencies listed in the `package.json` file, including Next.js, React, React DOM, Axios, Stripe, Tailwind CSS, and other specific dependencies such as "@aws-sdk/client-s3" and "@clerk/nextjs".
 
-**Setup environment variables**
+2. **Setup environment variables**
 
     Create a `.env` file in the root directory of your project and add the required environment variables.
 
-**Run the project**
+3. **Run the project**
 
     Now, you can run the project using the following command:
 
